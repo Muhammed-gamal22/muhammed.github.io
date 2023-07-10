@@ -190,12 +190,12 @@
 
 ```bash
 
-git clone https://github.com/rn0x/Adhkar-json
+git clone https://github.com/Alsarmad/Adhkar-json
 cd Adhkar-json
 
 ```
 
-او اضغط هنا لتحميل المستودع  [ Download ZIP ](https://github.com/rn0x/Adhkar-json/archive/refs/heads/main.zip)
+او اضغط هنا لتحميل المستودع  [ Download ZIP ](https://github.com/Alsarmad/Adhkar-json/archive/refs/heads/main.zip)
 
 # الترخيص 
 
